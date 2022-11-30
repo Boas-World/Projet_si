@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T08:32:01.724Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="J3JwXfdozb7fXfqG34xo" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-30T08:33:44.052Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="jTESev3yRMHTQl7WsC1C" type="github" pages="2">
   <diagram id="yXrR-bQxBVGIWTsMvQKW" name="Diagram de contexte">
     <mxGraphModel dx="723" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -122,7 +122,10 @@
           <mxGeometry x="230" y="821" width="190" height="8" as="geometry" />
         </mxCell>
         <mxCell id="jxyoImtTC_vDTDRPkQVg-22" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
-          <mxGeometry x="554" y="821" width="226" height="8" as="geometry" />
+          <mxGeometry x="554" y="821" width="236" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jxyoImtTC_vDTDRPkQVg-23" value="Station de recharge" style="html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="790" y="800" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
