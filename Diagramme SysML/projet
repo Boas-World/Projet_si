@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T07:25:15.284Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="MJCiziy9arn7R5ixiXaO" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-30T07:29:26.908Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="65pgw93d7Iv5s0d1-vG2" type="github">
   <diagram id="yXrR-bQxBVGIWTsMvQKW" name="Diagram de contexte">
-    <mxGraphModel dx="599" dy="363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="347" dy="211" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,17 +13,17 @@
         <mxCell id="I7ZS7KRW27DYVY-_WCH1-9" value="«interface»&lt;br&gt;&lt;b&gt;Téléphone&lt;/b&gt;" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="278" width="121" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I7ZS7KRW27DYVY-_WCH1-10" value="PMT" style="html=1;" vertex="1" parent="1">
-          <mxGeometry x="201" y="158" width="120" height="60" as="geometry" />
+        <mxCell id="I7ZS7KRW27DYVY-_WCH1-10" value="&lt;b&gt;Poubelle mobile&lt;br&gt;télécommandée&lt;/b&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="201" y="158" width="129" height="72" as="geometry" />
         </mxCell>
         <mxCell id="I7ZS7KRW27DYVY-_WCH1-11" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=1;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;movable=1;resizable=1;deletable=1;editable=1;connectable=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="231" y="246" width="63" height="8" as="geometry" />
+          <mxGeometry x="237" y="249" width="48" height="8" as="geometry" />
         </mxCell>
         <mxCell id="I7ZS7KRW27DYVY-_WCH1-13" value="Terrain" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="361" y="150" width="139" height="280" as="geometry" />
         </mxCell>
         <mxCell id="I7ZS7KRW27DYVY-_WCH1-14" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
-          <mxGeometry x="321" y="184" width="40" height="8" as="geometry" />
+          <mxGeometry x="330" y="184" width="31" height="8" as="geometry" />
         </mxCell>
         <mxCell id="I7ZS7KRW27DYVY-_WCH1-17" value="Objet de la maison" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="192" width="120" height="60" as="geometry" />
